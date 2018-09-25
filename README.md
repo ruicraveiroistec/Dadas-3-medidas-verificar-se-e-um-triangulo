@@ -1,4 +1,4 @@
-Dadas 3 medidas verificar se e um triangulo em C
+Dadas 3 medidas verificar se é um triangulo em C
 
 Este projeto é meramente demostrativo e de forma alguma a forma mais correta ou otimizada de executar a ideia, em caso de dúvida mande email para: rui.lima813@gmail.com.
 IDE recomendado: Dev-C++
